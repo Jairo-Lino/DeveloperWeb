@@ -1,2 +1,2 @@
 # DeveloperWeb
-Es una página web personal desarrollado en Html, Css y Js
+s una página web personal desarrollado en PHP, HTML, CSS Y JS.
